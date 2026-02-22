@@ -6,7 +6,7 @@ Requires DaVinci Resolve 17 or later
 
 Just download and open the **.drp** files directly. Davinci will prompt to import the project the in the app.
 
-NOTE : DaVinci Resolve (version 17.x or later) needs to be installed in order to view/edit the template files.
+NOTE : DaVinci Resolve *(version 17.x or later)* needs to be installed in order to view/edit the template files.
 
 ---
 ## License & Credit
